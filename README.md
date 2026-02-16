@@ -1,4 +1,7 @@
 # Python-Zero-to-Hero-Build-Your-Own-Fitness-Tracker-using-Gen-AI-
+
+## **Link :** https://www.datacamp.com/datalab/w/b554fdad-f995-49e0-b657-263127eadb7e/edit
+
 We'll learn how to combine AI, data analysis, and Python to explore and visualize fitness data.
 
 The data is available in this workbook as **fitness_data.csv**
